@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "This is the Hello World Repository\r # helloo",
+  "main": "beno.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benoanwar/Hello-World.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benoanwar/Hello-World/issues"
+  },
+  "homepage": "https://github.com/benoanwar/Hello-World#readme"
+}
