@@ -2,7 +2,12 @@ const express = require("express");
 // Create the app
 const app = express();
 app.use(express.json());
-console.log("this should be master");
+console
+  
+  
+  
+  
+  .log("this should be master");
 // nooononoooo
 // why why why??????????
 const books = [
